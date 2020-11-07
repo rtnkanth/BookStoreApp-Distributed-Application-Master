@@ -9,7 +9,7 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-05-20
+ * @author: Rtnkanth, Date : 2020-05-20
  */
 @Data
 @AllArgsConstructor

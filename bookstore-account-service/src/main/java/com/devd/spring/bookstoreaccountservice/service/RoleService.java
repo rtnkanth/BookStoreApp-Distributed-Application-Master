@@ -6,7 +6,7 @@ import com.devd.spring.bookstoreaccountservice.web.CreateRoleRequest;
 import java.util.List;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-09-27
+ * @author: Rtnkanth, Date : 2020-09-27
  */
 public interface RoleService {
 

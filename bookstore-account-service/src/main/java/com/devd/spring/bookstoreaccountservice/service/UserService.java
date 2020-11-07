@@ -5,7 +5,7 @@ import com.devd.spring.bookstoreaccountservice.web.GetUserInfoResponse;
 import com.devd.spring.bookstoreaccountservice.web.GetUserResponse;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-09-27
+ * @author: Rtnkanth, Date : 2020-09-27
  */
 public interface UserService {
 

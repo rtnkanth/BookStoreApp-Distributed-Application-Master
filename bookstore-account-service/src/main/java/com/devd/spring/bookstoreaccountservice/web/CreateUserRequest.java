@@ -10,7 +10,7 @@ import javax.validation.constraints.Size;
 import java.util.List;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-06-30
+ * @author: Rtnkanth, Date : 2020-06-30
  */
 @Data
 @AllArgsConstructor

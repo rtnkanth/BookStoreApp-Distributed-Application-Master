@@ -8,8 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-05-15
+ * @author: Rtnkanth, Date : 2019-05-15
  */
 @Configuration
 public class ApiGatewayConfig {
