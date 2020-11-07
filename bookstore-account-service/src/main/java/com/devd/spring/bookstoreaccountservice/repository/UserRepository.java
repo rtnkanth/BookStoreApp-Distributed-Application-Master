@@ -7,7 +7,7 @@ import org.springframework.data.repository.CrudRepository;
 import java.util.Optional;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-05-17
+ * @author: Rtnkanth, Date : 2020-05-17
  */
 public interface UserRepository extends CrudRepository<User, Long> {
 

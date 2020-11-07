@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.validation.Valid;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-06-30
+ * @author: Rtnkanth, Date : 2020-06-30
  */
 @RestController
 public class UserRoleController {

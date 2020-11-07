@@ -28,7 +28,7 @@ import java.security.KeyPair;
 import static org.apache.commons.lang.CharEncoding.UTF_8;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-05-17
+ * @author: Rtnkanth, Date : 2020-05-17
  */
 @Configuration
 @EnableAuthorizationServer

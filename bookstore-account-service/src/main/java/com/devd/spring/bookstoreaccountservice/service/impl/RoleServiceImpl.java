@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-06-30
+ * @author: Rtnkanth, Date : 2020-06-30
  */
 @Service
 public class RoleServiceImpl implements RoleService {

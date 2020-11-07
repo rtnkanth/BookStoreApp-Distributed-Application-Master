@@ -16,7 +16,7 @@ import java.net.URI;
 import java.util.Optional;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-06-30
+ * @author: Rtnkanth, Date : 2020-06-30
  */
 @RestController
 public class UserController {

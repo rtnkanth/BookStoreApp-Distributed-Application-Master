@@ -3,7 +3,7 @@ package com.devd.spring.bookstoreaccountservice.exception;
 import lombok.Getter;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-06-30
+ * @author: Rtnkanth, Date : 2020-06-30
  */
 public class SuccessCodeWithErrorResponse extends RuntimeException {
 

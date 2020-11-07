@@ -9,7 +9,7 @@ import org.hibernate.annotations.GenericGenerator;
 import javax.persistence.*;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-05-18
+ * @author: Rtnkanth, Date : 2020-05-18
  */
 @Data
 @NoArgsConstructor

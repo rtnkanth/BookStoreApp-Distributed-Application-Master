@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-04-22 20:08
+ * @author: Rtnkanth, Date : 2020-04-22 20:08
  */
 @Service
 public class AppUserDetailsServiceImpl implements AppUserDetailsService {

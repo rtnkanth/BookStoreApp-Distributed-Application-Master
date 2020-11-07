@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * @author: Devaraj Reddy, Date : 2019-05-17
+ * @author: Rtnkanth, Date : 2020-05-17
  */
 public interface RoleRepository extends CrudRepository<Role, Long> {
 
