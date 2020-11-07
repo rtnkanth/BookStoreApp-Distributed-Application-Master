@@ -5,11 +5,11 @@
 	<parent>
 		<groupId>com.devd.spring</groupId>
 		<artifactId>bookstore-application-parent</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>bookstore-api-gateway-service</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>bookstore-api-gateway-service</name>
 	<description>Discovery Server for BookStore App</description>
 

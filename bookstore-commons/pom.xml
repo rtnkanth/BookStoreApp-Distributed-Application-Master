@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.devd.spring</groupId>
 	<artifactId>bookstore-commons</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>bookstore-commons</name>
 	<description>Library for common code in bookstore application</description>
 
@@ -129,9 +129,4 @@
 		</dependency>
 
 	</dependencies>
-
-
-  <scm>
-    <tag>bookstore-application-parent-0.0.1</tag>
-  </scm>
 </project>

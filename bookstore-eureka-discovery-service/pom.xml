@@ -5,11 +5,11 @@
 	<parent>
 		<groupId>com.devd.spring</groupId>
 		<artifactId>bookstore-application-parent</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>bookstore-eureka-discovery-service</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>bookstore-eureka-discovery-service</name>
 	<description>Discovery Service for BookStore App</description>
 

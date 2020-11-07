@@ -4,11 +4,11 @@
     <parent>
         <groupId>com.devd.spring</groupId>
         <artifactId>bookstore-application-parent</artifactId>
-        <version>0.0.1</version>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
 
     <artifactId>bookstore-catalog-service</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>bookstore-catalog-service</name>
     <description>Demo project for Spring Boot</description>
 
@@ -85,7 +85,7 @@
         <dependency>
             <groupId>com.devd.spring</groupId>
             <artifactId>bookstore-commons</artifactId>
-            <version>0.0.1</version>
+            <version>0.0.2-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
 

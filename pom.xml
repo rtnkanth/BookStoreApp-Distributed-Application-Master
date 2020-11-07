@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.devd.spring</groupId>
     <artifactId>bookstore-application-parent</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <properties>
         <java.version>1.8</java.version>
@@ -125,6 +125,6 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/rtnkanth/BookStoreApp-Distributed-Application-Master.git</developerConnection>
-        <tag>bookstore-application-parent-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 </project>
