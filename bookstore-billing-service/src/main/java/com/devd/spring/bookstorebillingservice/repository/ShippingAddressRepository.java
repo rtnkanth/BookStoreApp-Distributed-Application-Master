@@ -6,8 +6,7 @@ import org.springframework.data.repository.CrudRepository;
 import java.util.Optional;
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-09-20
+ * @author: Rtnkanth, Date : 2020-09-20
  */
 public interface ShippingAddressRepository extends CrudRepository<ShippingAddressDao, String> {
 

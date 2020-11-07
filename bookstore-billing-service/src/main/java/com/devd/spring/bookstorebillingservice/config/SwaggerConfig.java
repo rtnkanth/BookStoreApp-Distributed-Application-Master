@@ -16,8 +16,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-09-20
+ * @author: Rtnkanth, Date : 2019-09-20
  */
 @Configuration
 @EnableSwagger2

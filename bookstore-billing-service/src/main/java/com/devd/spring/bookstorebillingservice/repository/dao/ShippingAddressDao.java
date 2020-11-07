@@ -7,8 +7,7 @@ import javax.persistence.*;
 import javax.validation.constraints.Pattern;
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-09-20
+ * @author: Rtnkanth, Date : 2020-09-20
  */
 @Entity
 @Table(name = "SHIPPING_ADDRESS")

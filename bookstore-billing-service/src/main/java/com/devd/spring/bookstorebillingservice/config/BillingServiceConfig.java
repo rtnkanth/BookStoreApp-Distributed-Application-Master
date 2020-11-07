@@ -7,8 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-09-20
+ * @author: Rtnkanth, Date : 2019-09-20
  */
 @Configuration
 public class BillingServiceConfig {

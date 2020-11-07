@@ -12,6 +12,10 @@ import javax.persistence.MappedSuperclass;
 import java.io.Serializable;
 import java.time.Instant;
 
+/**
+ * @author: Rtnkanth, Date : 2020-09-21
+ */
+
 @MappedSuperclass
 @EntityListeners(AuditingEntityListener.class)
 @JsonIgnoreProperties(

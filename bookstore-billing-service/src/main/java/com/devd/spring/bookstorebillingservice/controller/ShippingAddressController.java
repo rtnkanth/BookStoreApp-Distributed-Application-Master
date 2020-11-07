@@ -12,8 +12,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-06-04
+ * @author: Rtnkanth, Date : 2019-06-04
  */
 @RestController
 public class ShippingAddressController {

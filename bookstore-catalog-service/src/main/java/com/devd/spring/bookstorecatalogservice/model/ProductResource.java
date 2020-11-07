@@ -8,8 +8,7 @@ import org.springframework.hateoas.Resource;
 
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-08-27
+ * @author: Rtnkanth, Date : 2020-08-27
  */
 @Data
 public class ProductResource extends Resource<Product> {

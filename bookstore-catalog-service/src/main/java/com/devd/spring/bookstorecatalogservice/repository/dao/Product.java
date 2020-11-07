@@ -6,8 +6,8 @@ import org.hibernate.annotations.GenericGenerator;
 import javax.persistence.*;
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-06-04
+ * @author: Rtnkanth,
+ * Date : 2020-06-04
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

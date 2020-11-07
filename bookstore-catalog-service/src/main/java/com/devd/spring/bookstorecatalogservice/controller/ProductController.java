@@ -20,8 +20,7 @@ import javax.validation.Valid;
 import java.net.URI;
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-06-06
+ * @author: Rtnkanth, Date : 2020-06-06
  */
 @RestController
 public class ProductController {

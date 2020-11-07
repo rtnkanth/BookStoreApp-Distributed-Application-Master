@@ -4,8 +4,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * @author: Devaraj Reddy,
- * Date : 2019-09-21
+ * @author: Rtnkanth, Date : 2020-09-21
  */
 @Data
 @Builder
